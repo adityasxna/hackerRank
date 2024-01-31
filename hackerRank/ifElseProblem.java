@@ -17,6 +17,6 @@ public class ifElseProblem {
         }
         else {
             System.out.println("Weird");
-        }
+        } sc.close();
     }
 }

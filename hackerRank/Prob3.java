@@ -12,6 +12,6 @@ public class Prob3 {
         }
         else {
             System.out.println("Invalid input");
-        }
+        } sc.close();
     }
 }

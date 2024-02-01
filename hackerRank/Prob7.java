@@ -15,5 +15,5 @@ public class Prob7 {
             System.out.println("No");
         }
         sc.close();
-    }
+    }   
 }
